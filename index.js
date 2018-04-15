@@ -16,6 +16,3 @@ function inc(n) {
 function inc(n) {
   return n - 1
 }
-function makeInt(n){
-  return parseInt()
-}
